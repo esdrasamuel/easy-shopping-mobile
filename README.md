@@ -5,3 +5,9 @@
 <br>
 <p>Durante esse progeto foi utilizado HTL:5 e CSS.</p>
 <p>O projeto simula um site onde o cliente pode acessa-lo tanto pelo computador como por meio do celular. </p>
+<br>
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/esdrasamuel/easy-shopping-mobile/master/assets/img%20computador.png"/>
+<img src="https://raw.githubusercontent.com/esdrasamuel/easy-shopping-mobile/master/assets/img%20celular.png" />
